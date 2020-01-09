@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Animations</string>
     <string name="todo">TODO</string>
+    <string name="main_menu">MAIN MENU</string>
+    <string-array name="menuArray">
+        <item name="menu_item_play">Play Games</item>
+        <item name="menu_item_scores">View Scores</item>
+        <item name="menu_item_settings">Settings</item>
+        <item name="menu_item_help">Help</item>
+    </string-array>
 </resources>

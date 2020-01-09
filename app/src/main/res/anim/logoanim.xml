@@ -20,12 +20,13 @@
         android:duration="1000"
         android:repeatCount="11"/>
     <alpha
-        android:fromAlpha="0.9"
+        android:fromAlpha="0.7"
         android:toAlpha="1"
         android:startOffset="0"
         android:repeatMode="reverse"
         android:duration="1000"
         android:repeatCount="12"/>
+
 
 
 
