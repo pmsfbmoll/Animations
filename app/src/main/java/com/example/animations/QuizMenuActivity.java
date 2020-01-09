@@ -19,7 +19,6 @@ public class QuizMenuActivity extends QuizActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quiz_menu);
         this.lv= (ListView)findViewById(R.id.listView);
-
         items= getResources().getStringArray(R.array.menuArray);
         ArrayAdapter<String> adapt = new ArrayAdapter<String>(this,R.layout.menu_item, items);
         lv.setAdapter(adapt);
